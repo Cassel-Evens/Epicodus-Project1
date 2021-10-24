@@ -1,11 +1,11 @@
 body {
-  background-color: rgb(253, 246, 231);
+  background-color: rgb(255, 239, 210);
 }
 
 .jumbotron {
   border: 2px solid black;
   padding: 10px;
-  background-color: rgba(221, 250, 255, 0.884);
+  background-color: #d1f8ffc4;
   display: block;
   margin: auto;
   margin-top: 10px;
@@ -40,7 +40,6 @@ p {
   margin: auto;
   margin-bottom: 20px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  float: right;
   box-sizing: border-box;
 }
 
@@ -49,27 +48,15 @@ p {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.Animal {
-  border: 2px solid black;
-  padding: 5px;
-  width: 40%;
-  display: block;
-  margin: auto;
-  margin-bottom: 20px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  float: left;
-  box-sizing: border-box;
-}
-
-
-.Animal p {
-  text-align: left;
+.card-title h3 {
+  text-align: center;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.Film {
-  border: 2px solid black;
+.film {
+  border: 0px solid black;
   padding: 5px;
+  text-align: center;
   display: block;
   margin: auto;
   margin-top: 20px;
