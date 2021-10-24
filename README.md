@@ -25,6 +25,7 @@ I am.
 
 
 ## License
+MIT
 
 
 Copyright (c) 10-23-2021 _Cassel Evens_
