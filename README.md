@@ -24,7 +24,7 @@ I am.
 
 ## Git Hub Pages Link
 
-* <a href=file:///Users/casselevens/Desktop/first-project/index.html>Git Hub Page</a>
+* _https://cassel-evens.github.io/Epicodus-Project1/_
 
 
 ## License
