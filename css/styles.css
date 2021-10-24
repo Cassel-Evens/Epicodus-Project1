@@ -1,11 +1,11 @@
 body {
-  background-color: rgb(255, 239, 210);
+  background-color: rgb(250, 240, 223);
 }
 
 .jumbotron {
   border: 2px solid black;
   padding: 10px;
-  background-color: #d1f8ffc4;
+  background-color: #fdfdfdc4;
   display: block;
   margin: auto;
   margin-top: 10px;
@@ -72,4 +72,33 @@ p {
   margin: auto;
   margin-top: 30px;
   display: block;
+}
+
+.skiing {
+  border: 0px;
+  padding: 10px;
+  margin-top: 20px;
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-bottom: 30px;
+}
+
+.Hood1 {
+  border: 3px solid black;
+  width: 30%;
+  margin: auto;
+  height: 300px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  float: left;
+}
+
+.Hood2 {
+  border: 3px solid black;
+  width: 30%;
+  margin: auto;
+  height: 300px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  float: right;
 }
