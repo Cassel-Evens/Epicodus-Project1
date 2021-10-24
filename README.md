@@ -21,6 +21,7 @@ I am.
 
 ## Known Bugs
 * Certain lines are showing that I can't get to move.
+* Skiing images don't show through link.
 
 ## Git Hub Pages Link
 
