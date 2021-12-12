@@ -1,4 +1,4 @@
-# _Cassel Evens Porfolio_
+# _Cassel Evens Portfolio_
 
 #### By _**Cassel Evens**_
 
